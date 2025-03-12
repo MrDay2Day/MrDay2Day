@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 <a href="https://day2dayja.com" 
-   style="padding: 10px; background-color: black; border-radius: 25px; text-decoration: none; color: white; display: inline-block;">
+   style="padding: 10px; background-color: red; border-radius: 25px; text-decoration: none; font-weight: 800; border: 5px solid black; color: white; display: inline-block;">
    Visit Day2Day Website
 </a>
 
