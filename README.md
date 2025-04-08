@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-<p style="margin: 0px; font-size: 30px;">👨🏿‍💻</p><br/>
+👨🏿‍💻<br/>
 <h3>MrDay2Day</h3> 
 Software Engineer | Systems Architect<br/>
 🌍 Kingston, Jamaica<br/>
