@@ -7,8 +7,7 @@
 </div>
 <div align="center">
 
-## 👨🏿‍💻
-
+👨🏿‍💻<br/>
 <h3>MrDay2Day</h3> 
 Software Engineer | Systems Architect<br/>
 🌍 Kingston, Jamaica<br/>
@@ -46,7 +45,7 @@ Software Engineer | Systems Architect<br/>
 
 <div align="center">
 <h3>My Tech Stack</h3>
-<p>Things I know a little somthing about..</p>
+<p>Things I know a little somthing about...</p>
 </div>
 
 <div align="center">
