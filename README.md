@@ -10,7 +10,7 @@
 <h3>MrDay2Day</h3> 
 I Code<br/>
 🌍 Kingston, Jamaica<br/>
-🛠️ Code Advocate, figuring out how the web works.
+👩🏾‍💻 Somewhat of a nerd...
 
 </div>
 
