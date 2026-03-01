@@ -25,7 +25,7 @@ Software Engineer | Systems Architect<br/>
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrDay2Day&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats-ashen-phi-78.vercel.app/api/top-langs?username=MrDay2Day&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 </div>
 
