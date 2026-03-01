@@ -7,11 +7,10 @@
 </div>
 <div align="center">
 
-👨🏿‍💻<br/>
 <h3>MrDay2Day</h3> 
-Software Engineer | Systems Architect<br/>
+I Code<br/>
 🌍 Kingston, Jamaica<br/>
-🛠️ Passionate about building scalable systems
+🛠️ Code Advocate, figuring out how the web works.
 
 </div>
 
